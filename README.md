@@ -13,11 +13,13 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 1. Customer membuat ID transaksi
 2. Customer input nama item, jumlah item, dan harga item
 3. Jika ada kesalahan input, maka customer:
-  * Update nama item
+  * Update nama item update_item_name()
   * Update jumlah item
   * Update harga item
 4. Jika batal item belanjaan, maka customer:
   * Hapus salah satu item
   * Langsung hapus transaksi/reset transaksi
-  * 
+5. Jika sudah selesai, customer mengecek list belanja
+6. Jika sudah benar, maka terdapat pesan **"Pemesanan sudah benar"**
+7. Jika belum benar, maka terdpat pesan **"Terdapat kesalahan input data"**
 ![Self Service Cashier](https://user-images.githubusercontent.com/119731555/223314509-c83aaac9-b662-45fe-9f3d-c82eec6827e5.png)
