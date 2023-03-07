@@ -22,4 +22,6 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 5. Jika sudah selesai, customer mengecek list belanja `check_order()`
  - Jika sudah benar, maka terdapat pesan **"Pemesanan sudah benar"**
  - Jika belum benar, maka terdpat pesan **"Terdapat kesalahan input data"**
+
+## Flowchart Self-Service Cashier
 ![Self Service Cashier](https://user-images.githubusercontent.com/119731555/223314509-c83aaac9-b662-45fe-9f3d-c82eec6827e5.png)
