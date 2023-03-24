@@ -19,8 +19,7 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
    * Hapus salah satu item `delete_item()`
    * Langsung hapus transaksi/reset transaksi `reset_transaction()`
 4. Jika sudah selesai, customer mengecek list belanja `check_order()`
-   - Jika sudah benar, maka terdapat pesan **"Pemesanan sudah benar"**
-   - Jika belum benar, maka terdpat pesan **"Terdapat kesalahan input data"**
+5. Pembeli mengecek total harga `total_price()`
 
 ## Flowchart Self-Service Cashier
 ![image](https://user-images.githubusercontent.com/119731555/227449740-90fa0a65-7eda-4b9d-843f-5347db851e40.png)
