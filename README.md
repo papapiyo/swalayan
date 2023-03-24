@@ -58,4 +58,5 @@ Pada file self_service_cashier.py terdapat beberapa method, diantaranya adalah:
 ## Hasil test-case
 
 ## Conclusion/Future Work
-Program Self-Service Cashier bisa berjalan dengan baik 
+Program Self-Service Cashier bisa dijalankan melalui terminal.
+Kedepannya perlu dibangun database untuk menyimpan data transaksi setiap pembeli serta membangun GUI agar semakin user-friendly.
