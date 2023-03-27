@@ -42,6 +42,7 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 ## Penjelasan code
 Program self-service cashier terdapat dua file program, main.py dan self_service_cashier.py.
 File main.py merupakan file utama yang dijalan oleh user dengan command: `python main.py`
+
 ![image](https://user-images.githubusercontent.com/119731555/227688906-3d7e2f4d-101b-443e-9da0-8b0b4c1fde9f.png)
 
 
