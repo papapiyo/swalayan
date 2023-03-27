@@ -1,8 +1,7 @@
 # Swalayan ~ Self-Service Cashier
 ## Latar Belakang
 Pemilik supermarket berencana untuk memperbaiki proses bisnis. Salah satu rencananya adalah membuat sistem kasir self-service di supermarket miliknya. Sehingga customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli. 
-Program ini dinamakan dengan `swalayan`. Menurut KBBI, swalayan adalah 'pelayanan sendiri oleh pembeli karena perusahaan tidak menyediakan pramuniaga'. https://kbbi.kemdikbud.go.id/entri/swalayan
-[KBBI](https://kbbi.kemdikbud.go.id/entri/swalayan)
+Program ini dinamakan dengan `swalayan`. Menurut [KBBI](https://kbbi.kemdikbud.go.id/entri/swalayan), swalayan adalah 'pelayanan sendiri oleh pembeli karena perusahaan tidak menyediakan pramuniaga'.
 
 ## Tujuan
 Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
