@@ -1,9 +1,12 @@
 # Swalayan ~ Self-Service Cashier
+
 ## Latar Belakang
+
 Pemilik supermarket berencana untuk memperbaiki proses bisnis. Salah satu rencananya adalah membuat sistem kasir self-service di supermarket miliknya. Sehingga customer bisa langsung memasukkan item yang dibeli, jumlah item yang dibeli, dan harga item yang dibeli. 
 Program ini dinamakan dengan `swalayan`. Menurut [KBBI](https://kbbi.kemdikbud.go.id/entri/swalayan), swalayan adalah 'pelayanan sendiri oleh pembeli karena perusahaan tidak menyediakan pramuniaga'.
 
 ## Tujuan
+
 Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 * Memasukkan item yang akan dibeli
 * Menambahkan item yang akan dibeli
@@ -11,6 +14,7 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 * Mengecek kembali daftar belanja sebelum melakukan pembayaran
 
 ## Feature Requirements
+
 1. Customer input nama item, jumlah item, dan harga item `add_item()`
 2. Jika ada kesalahan input, maka customer:
    * Update nama item `update_item_name()`
@@ -23,6 +27,7 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 5. Pembeli mengecek total harga `total_price()`
 
 ## Flowchart Self-Service Cashier
+
 ![image](https://user-images.githubusercontent.com/119731555/227449740-90fa0a65-7eda-4b9d-843f-5347db851e40.png)
 | ID | Step Proses                | Deskripsi Proses                                                                 | Method                |
 |----|----------------------------|----------------------------------------------------------------------------------|-----------------------|
@@ -41,6 +46,7 @@ Membuat sistem kasir sederhana supaya customer dapat melakukan hal-hal berikut
 | 10 | Total price + discount     | Pembeli melakukan pengecekan total harga dan mendapatkan diskon sesuai ketentuan | `total_price()`       |
 
 ## Penjelasan code
+
 Program self-service cashier terdapat dua file program, main.py dan self_service_cashier.py.
 File main.py merupakan file utama yang dijalan oleh user dengan command: `python main.py`
 
@@ -117,6 +123,7 @@ Pada file self_service_cashier.py terdapat beberapa method, diantaranya adalah:
 
 
 ## Conclusion/Future Work
+
 Program Self-Service Cashier bisa dijalankan melalui terminal.
 
 Kedepannya perlu dibangun database harga untuk menghindari fraud serta untuk menyimpan data transaksi setiap pembeli. 
